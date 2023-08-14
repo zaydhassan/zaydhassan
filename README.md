@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular, REACT.JS and MERN stack<br>📫 How to reach me zayd13062002@gmail.com
+🌱 I’m currently learning three.js,React.JS and MERN stack<br>📫 How to reach me zayd13062002@gmail.com
 
 
 ## 🌐 Socials:

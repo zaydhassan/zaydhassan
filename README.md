@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Learning MERN Stack<br>📫 How to reach me zaythirteen@gmail.com
+🌱 I’m currently Learning MERN Stack<br>📫 How to reach me zaydthirteen@gmail.com
 
 
 ## 🌐 Socials:

@@ -10,9 +10,11 @@
 </h1>
 
 
-# 💫 About Me:
-okay
+### 💫 About Me
 
+Full Stack Developer with a strong foundation in **React, Node.js and MongoDB**. I’ve built scalable apps, optimized APIs, and designed clean, reusable front-end components. Passionate about solving problems, shipping fast, and learning new tools.
+
+Currently exploring advanced backend systems, cloud deployments, and clean architecture patterns.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zayd_hassan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/zayd-hassan-a06105213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaydthirteen@gmail.com) 

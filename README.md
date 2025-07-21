@@ -1,5 +1,9 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/2yugU7v.png" alt="Zayd Hassan Banner" width="100%" />
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zaydhassan/zaydhassan/main/github-header-image.png" alt="Full Stack Developer Banner" />
+</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Zayd+Hassan+%F0%9F%91%8B;Software+Developer+%7C+Full-stack+Engineer;Always+Learning+%7C+Building+Awesome+Stuff" alt="Typing SVG" />

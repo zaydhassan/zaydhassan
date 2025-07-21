@@ -1,31 +1,76 @@
-<!-- Banner Image -->
-<img src="https://i.imgur.com/UrhG2U8.png" width="100%" alt="Zayd Hassan Banner" />
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <span style="background: linear-gradient(to right, #00f2fe, #4facfe); -webkit-background-clip: text; color: transparent;">
-    Hey there, I'm <strong>Zayd Hassan</strong> 👨‍💻
-  </span>
-</h1>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Your+Name+Here!;Aspiring+Software+Developer;Full-Stack+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-### ⚡ About Me
+### 👨‍💻 About Me
 
-```diff
-🌍 Chennai, Tamil Nadu, India  
-🎓 B.Tech in CSE - SRM Institute of Science and Technology (2024)  
-💼 Software Intern at Polysia, Bluestock, Afame  
-🚀 Passionate Full Stack Dev | DevOps | CI/CD | AWS  
-🧠 100+ DSA Problems Solved | 10+ Hackathons  
+- 🚀 Software Developer with experience in **React, Node.js, Python**, and scalable full-stack systems.
+- 🧠 Solved **100+ DSA problems**, passionate about problem solving.
+- 💼 Completed **3 industry internships**, delivering production-ready apps.
+- 🛠️ Contributor to **open-source** and love building in public!
 
-🔗 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/zaydhassan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:zaydthirteen@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/zaydhassan"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,python,cpp,tailwind,bootstrap,mongodb,mysql,firebase,git,github,postman,aws" /> </p>
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=tokyonight&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zaydhassan&theme=tokyonight" /> </p>
-🌐 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaydhassan&theme=tokyo-night&hide_border=true" /> </p>
-💡 Daily Quote Generator
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1DBF73?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&hide_border=false" width="48%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 📌 Popular Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔗 React JS Movie Review](https://github.com/your-github-username/project1) | Full-stack web app with Firebase Auth & CRUD for movie reviews | ReactJS, Firebase |
+| [🔗 INTERACTIVE THREAT MAP](https://github.com/your-github-username/project2) | Real-time threat visualizer using global data | D3.js, React |
+| [🔗 MERN Blog App](https://github.com/your-github-username/project3) | End-to-end blog system w/ RBAC, caching, JWT | MERN, Redis, JWT |
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+_⭐️ Don't forget to star your favorite repositories and connect with devs around the world!_
+

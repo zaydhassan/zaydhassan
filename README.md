@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-Full Stack Developer with a strong foundation in **React, Node.js and MongoDB**. I’ve built scalable apps, optimized APIs, and designed clean, reusable front-end components. Passionate about solving problems, shipping fast, and learning new tools.
+Full Stack Developer skilled in building scalable web applications using **MERN stack**. I’ve built scalable apps, optimized APIs, and designed clean, reusable front-end components. Passionate about solving problems, shipping fast, and learning new tools.
 
 Currently exploring advanced backend systems, cloud deployments, and clean architecture patterns.
 

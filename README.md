@@ -1,10 +1,10 @@
 <!-- Banner -->
 <img src="https://i.imgur.com/2yugU7v.png" alt="Zayd Hassan Banner" width="100%" />
 
-<!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Zayd+Hassan+%F0%9F%91%8B;Software+Developer+%7C+Full-stack+Engineer;Always+Learning+%7C+Building+Awesome+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Zayd+Hassan+%F0%9F%91%8B;Software+Developer+%7C+Full-stack+Engineer;Always+Learning+%7C+Building+Awesome+Stuff" alt="Typing SVG" />
 </h1>
+
 
 # 💫 About Me:
 okay

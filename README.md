@@ -1,16 +1,20 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer from [Your Country]</h3>
+<!-- Header Wave Emoji + Name -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Your Name!
+</h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Clean+Code+Advocate;Tech+Lover+%F0%9F%9A%80;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,postgres,mongodb,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mongodb,postgres,docker,git,github,vercel,vscode,figma" />
 </p>
 
 ---
@@ -18,30 +22,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🌐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🎯 Current Focus
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" /></a>
-  <a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" height="30" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+```txt
+🔭 I’m currently working on: My portfolio + freelance projects  
+🌱 I’m learning: TypeScript, GraphQL  
+💬 Ask me about: React, Node.js, APIs, Clean Code  

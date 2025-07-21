@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Aesthetic Banner Image (Replace with your custom image link) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Your+Name+Here!;Aspiring+Software+Developer;Full-Stack+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
 </p>
 
 ---
@@ -54,16 +54,6 @@
 
 ---
 
-### 📌 Popular Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔗 React JS Movie Review](https://github.com/your-github-username/project1) | Full-stack web app with Firebase Auth & CRUD for movie reviews | ReactJS, Firebase |
-| [🔗 INTERACTIVE THREAT MAP](https://github.com/your-github-username/project2) | Real-time threat visualizer using global data | D3.js, React |
-| [🔗 MERN Blog App](https://github.com/your-github-username/project3) | End-to-end blog system w/ RBAC, caching, JWT | MERN, Redis, JWT |
-
----
-
 ### 💬 Random Dev Quote
 
 <p align="center">
@@ -72,5 +62,4 @@
 
 ---
 
-_⭐️ Don't forget to star your favorite repositories and connect with devs around the world!_
-
+_⭐️ Star your favorite repositories and connect with developers worldwide!_

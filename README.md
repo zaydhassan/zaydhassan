@@ -1,13 +1,18 @@
-<!-- Aesthetic Banner Image (Replace with your custom image link) -->
+<!-- Aesthetic Banner Image (Replace with your preferred image link, if needed) -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
+</p>
+
+<!-- Typing Animation directly below the banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Your+Name+Here!;Aspiring+Software+Developer;Full-Stack+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Software Developer with experience in **React, Node.js, Python**, and scalable full-stack systems.
+- 🚀 Software Developer experienced in **React, Node.js, Python**, and scalable full-stack systems.
 - 🧠 Solved **100+ DSA problems**, passionate about problem solving.
 - 💼 Completed **3 industry internships**, delivering production-ready apps.
 - 🛠️ Contributor to **open-source** and love building in public!
@@ -42,6 +47,11 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Custom stats image from the attached file -->
+  <img src="ATTACHED_IMAGE_URL" alt="GitHub Stats" width="600px" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />

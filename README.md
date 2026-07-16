@@ -82,14 +82,19 @@
 
 </p>
 
+<h2 align="center">💻 Most Used Languages</h2>
+
 <p align="center">
-  <a href="https://github.com/zaydhassan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaydhassan&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydhassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12"
+    alt="Most Used Languages"
+  />
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=zaydhassan)
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,aws,kubernetes,git&perline=8" />
+</p>
 
 ## 🔗 Connect with Me
 <p align="center">

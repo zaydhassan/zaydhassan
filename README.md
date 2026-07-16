@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I enjoy turning complex ideas into simple, production-ready software
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/zaydhassan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="zaydhassan's GitHub Stats" />

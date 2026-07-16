@@ -82,12 +82,14 @@
 
 </p>
 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <p align="center">
-  <a href="https://github.com/zaydhassan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaydhassan&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,terraform,git,github,vscode,postman&perline=6"/>
+</p>
 
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2500&pause=700&color=A371F7&center=true&vCenter=true&width=700&lines=Agentic+AI;Next.js;FastAPI;PostgreSQL;Docker;AWS;LangChain;OpenAI;Gemini;Kubernetes" />
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=zaydhassan)

@@ -13,12 +13,22 @@
 - ⚡ Fun fact: I enjoy turning complex ideas into simple, production-ready software
 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/zaydhassan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="zaydhassan's GitHub Stats" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&theme=nightowl&border_radius=10&cachebuster=0"
+      alt="GitHub Stats"
+    />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=zaydhassan&theme=nightowl&hide_border=true&cache_seconds=86400" alt="zaydhassan's GitHub Streak" width="49%" />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=zaydhassan&theme=nightowl&hide_border=true&cachebuster=0"
+    alt="GitHub Streak"
+  />
 </p>
 
 

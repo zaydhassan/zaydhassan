@@ -1,0 +1,27 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # Every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update cache buster
+        run: |
+          TS=$(date +%s)
+          sed -i "s/cachebuster=[0-9]*/cachebuster=${TS}/g" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh GitHub stats"

@@ -16,12 +16,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-</p>
+  <a href="https://github.com/zaydhassan">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&theme=nightowl&border_radius=10&cachebuster=1785217017"
+      alt="GitHub Stats"
+    />
+  </a>
 
 <p align="center">
   <img

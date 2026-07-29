@@ -18,7 +18,7 @@
   <a href="https://github.com/zaydhassan">
     <img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&theme=nightowl&border_radius=10&cachebuster=1785305827"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&theme=nightowl&border_radius=10&cachebuster=1785316564"
       alt="GitHub Stats"
     />
   </a>

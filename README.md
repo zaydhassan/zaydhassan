@@ -12,7 +12,6 @@
 - 📫 Reach me: zaydthirteen@gmail.com
 - ⚡ Fun fact: I enjoy turning complex ideas into simple, production-ready software
 
-
 ## 📊 GitHub Stats
 
 <p align="center">

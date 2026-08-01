@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Zayd%20Hassan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-
-
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me 

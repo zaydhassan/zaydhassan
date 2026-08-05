@@ -13,18 +13,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/zaydhassan">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaydhassan&theme=nightowl&border_radius=10&cachebuster=1785316564"
-      alt="GitHub Stats"
-    />
-  </a>
-
-<p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=zaydhassan&theme=nightowl&hide_border=true"
     height="180"
+    src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=zaydhassan&theme=nightowl&hide_border=true"
     alt="GitHub Streak"
   />
 </p>

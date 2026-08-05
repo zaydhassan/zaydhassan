@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I enjoy turning complex ideas into simple, production-ready software
 
 ## 📊 GitHub Stats
-
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=zaydhassan&theme=neon-dark"

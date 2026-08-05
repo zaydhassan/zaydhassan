@@ -13,17 +13,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/zaydhassan">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
+      height="195"
+      alt="GitHub Stats"
+    />
+  </a>
 
-  <img
-    src="https://streak-stats.demolab.com?user=zaydhassan&theme=nightowl&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=zaydhassan&theme=neon-dark"
+      height="195"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ## 🛠️ Languages & Tools

@@ -12,15 +12,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/zaydhassan">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
-      height="195"
-      alt="GitHub Stats"
-    />
-  </a>
-
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=zaydhassan&theme=neon-dark"

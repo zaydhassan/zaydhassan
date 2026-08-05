@@ -15,13 +15,19 @@
 <p align="center">
   <a href="https://github.com/zaydhassan">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
       height="195"
+      src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=youtube-dark&hide_border=false&border_radius=4.5"
       alt="GitHub Stats"
     />
   </a>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaydhassan&theme=youtube-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img
+      height="195"
+      src="https://streak-stats.demolab.com?user=zaydhassan&theme=youtube-dark"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ## 🛠️ Languages & Tools

@@ -21,13 +21,7 @@
     />
   </a>
 
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=zaydhassan&theme=neon-dark"
-      height="195"
-      alt="GitHub Streak"
-    />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaydhassan&theme=youtube-dark" alt="GitHub Streak" /></a>
 </p>
 
 ## 🛠️ Languages & Tools

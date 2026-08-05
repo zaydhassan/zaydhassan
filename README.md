@@ -14,18 +14,17 @@
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zaydhassan&show_icons=true&theme=nightowl&hide_border=true&border_radius=10"
     alt="GitHub Stats"
   />
 
   <img
-    height="180"
     src="https://streak-stats.demolab.com?user=zaydhassan&theme=nightowl&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
-
 
 ## 🛠️ Languages & Tools
 

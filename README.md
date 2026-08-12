@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me 
-- 🌱 Currently building Agentic AI applications and scalable SaaS products
+- 🌱 Currently building Agentic AI applications and scalable SaaS products.
 - 🤖 Exploring Multi-Agent Systems, AI Security.
 - ☁️ Learning AWS cloud architecture and Kubernetes also building AI Automations
 - 💼 Open to collaborating on AI, Full Stack, and Open Source projects

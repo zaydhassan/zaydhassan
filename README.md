@@ -6,7 +6,7 @@
 - 🌱 Currently building Agentic AI applications and scalable SaaS products.
 - 🤖 Exploring Multi-Agent Systems, AI Security.
 - ☁️ Learning AWS cloud architecture and Kubernetes also building AI Automations
-- 💼 Open to collaborating on AI, Full Stack, and Open Source projects
+- 💼 Open to collaborating on AI, Full Stack, and Open Source projects.
 - 📫 Reach me: zaydthirteen@gmail.com
 
 ## 📊 GitHub Stats

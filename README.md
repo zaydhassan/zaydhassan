@@ -50,7 +50,6 @@
   <img src="https://assets.hongkiat.com/uploads/getting-started-with-flask/flask.jpg" alt="Flask" width="40" />
 
 </p>
-
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;

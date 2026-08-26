@@ -10,10 +10,11 @@
 - 📫 Reach me: zaydthirteen@gmail.com
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=zaydhassan&theme=neon-dark"
+      src="https://streak-stats.demolab.com?user=zaydhassan&theme=blue-green"
       height="195"
       alt="GitHub Streak"
     />
